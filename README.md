@@ -1,8 +1,8 @@
 # ImageLoadingView
-## 摘要
+## Abstract 摘要
 类似微信和微博图片或视频加载时的loading
 
-## Gif动画
+## Gif 动画
 ![1](https://github.com/yingLanNull/ImageLoadingView/blob/master/Show/1.gif)
 ![2](https://github.com/yingLanNull/ImageLoadingView/blob/master/Show/2.gif)
 
@@ -52,7 +52,7 @@ dependencies {
         loadingView.setOutsideCircleColor(int color);
 ```
 
-## FAQ
+## FAQ 注意
 
 ```
 	在为动态生成的控件添加ImageLoadingView时,需要注意先为该控件添加可靠父布局,再调用setTargetView(imageView).
