@@ -1,6 +1,6 @@
 # ImageLoadingView
 ## Abstract 摘要
-类似微信和微博图片或视频加载时的loading
+类似微信和微博图片或视频加载时的轻量级loading
 
 ## Gif 动画
 ![1](https://github.com/yingLanNull/ImageLoadingView/blob/master/Show/1.gif)
