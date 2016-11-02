@@ -29,6 +29,7 @@ import java.util.ArrayList;
  * @time: 16/3/16
  */
 public class MainPagerAdapter extends PagerAdapter {
+
     private ArrayList<Address> mAllAddressList;
     private Context mContext;
 
