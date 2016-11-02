@@ -131,8 +131,8 @@ public class MainPagerAdapter extends PagerAdapter {
             @Override
             public void onClick(View v) {
                 Bundle bundle = new Bundle();
-                bundle.putString("uri",address.getImageUrl());
-                Intent intent = new Intent(mContext , LargerActivity.class);
+                bundle.putString("uri", address.getImageUrl());
+                Intent intent = new Intent(mContext, LargerActivity.class);
                 intent.putExtras(bundle);
                 mContext.startActivity(intent);
             }
