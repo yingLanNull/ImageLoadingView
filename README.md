@@ -56,7 +56,7 @@ dependencies {
 
 ```
 	在为动态生成的控件添加ImageLoadingView时,需要注意先为该控件添加可靠父布局,再调用setTargetView(imageView).
-	demo中是使用imageloader来实现的图片加载进度监听回调
+	本demo中是使用imageloader来实现的图片加载进度监听回调
 ```
 
 ## LICENSE 开源许可
