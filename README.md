@@ -59,7 +59,6 @@ dependencies {
 	本demo中是使用imageloader来实现的图片加载进度监听回调
 ```
 
-## LICENSE 开源许可
-
-    Apache License Version 2.0
+## LICENSE 开源协议
+    Apache License Version 2.0
 
