@@ -43,10 +43,10 @@ dependencies {
 ### Step 3
 ```
 提供方法:
-	    loadingView.setProgress(float f); //0.0 ~ 1.0;
-	    loadingView.loadCompleted();
-	    loadingView.loadCompleted(ImageLoadingView.ViewType.IMAGE);
-	    loadingView.loadCompleted(ImageLoadingView.ViewType.VIDEO);
+	loadingView.setProgress(float f); //0.0 ~ 1.0;
+	loadingView.loadCompleted();
+	loadingView.loadCompleted(ImageLoadingView.ViewType.IMAGE);
+	loadingView.loadCompleted(ImageLoadingView.ViewType.VIDEO);
         loadingView.loadFaild();
         loadingView.setInsideCircleColor(int color);
         loadingView.setOutsideCircleColor(int color);
