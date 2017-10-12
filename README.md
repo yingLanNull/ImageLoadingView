@@ -6,7 +6,7 @@
 ![1](https://github.com/yingLanNull/ImageLoadingView/blob/master/Show/1.gif)
 ![2](https://github.com/yingLanNull/ImageLoadingView/blob/master/Show/2.gif)
 
-## Demo 下载APK体验
+## Demo 下载体验
 [Download Demo](https://github.com/yingLanNull/ImageLoadingView/raw/master/Show/demo-debug.apk)
 
 ## Usage 使用方法
